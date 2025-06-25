@@ -1,6 +1,6 @@
 # HyperOS ROMs – The Ultimate resource of HyperOS ROMs Download
 
-Welcome to the official [HyperOSROM.com](https://hyperosroms.com/) website Github Page. Get the latest, stable, and secure HyperOS ROM for your Xiaomi device. Enjoy enhanced performance, new features, and regular updates.
+Welcome to the official Github organization of [HyperOSROM.com](https://hyperosroms.com/) website. Get the latest, stable, and secure HyperOS ROM for your Xiaomi device. Enjoy enhanced performance, new features, and regular updates.
 
 ## Why Choose HyperOS ROM?
 
