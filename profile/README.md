@@ -32,7 +32,7 @@ You can download the latest HyperOS ROMs directly from the official [HyperOS ROM
 
 ## Where to Download HyperOS ROMs
 
-You can download the latest [HyperOS ROMs](https://hyperosroms.com/hyperos) directly from the official HyperOS ROM Download Portal. All available ROMs for supported devices are listed there, along with version details, changelogs, and direct download links. Always ensure you are downloading from the official source to guarantee file integrity and security.
+You can download the latest [HyperOS ROMs](https://hyperosroms.com/) directly from the official HyperOS ROM Download Portal. All available ROMs for supported devices are listed there, along with version details, changelogs, and direct download links. Always ensure you are downloading from the official source to guarantee file integrity and security.
 
 ## Version Support & Downloads
 
